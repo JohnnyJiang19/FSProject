@@ -5,7 +5,7 @@ nation, but also reflects a reduction in the average number of credit cards a Si
 OCBC has rich credit card data and excellent reputation. However, competitive market campaigns by
 companies worldwide, means OCBC needs to know more about their customers, to ensure retaining
 their valuable customers. At the same time, OCBC analysts needs to balance the revenue and the
-risk.
+risk. </br>
 The bottlenecks OCBC faced now are how to identify the valuable customers and what effective
 measures should be taken to reach them.
 We want to find out the most valuable customers based on the 80/20 rule, which small percentage
