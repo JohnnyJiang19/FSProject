@@ -1,4 +1,4 @@
-# FSProject
+# Analytics in Financial Service Project
 Despite Singapore having the second highest credit card penetration rate in Asia Pacific, credit cards
 in circulation are increasingly declining. This is not only a trend from the macro-perspective of the
 nation, but also reflects a reduction in the average number of credit cards a Singaporean owns.
